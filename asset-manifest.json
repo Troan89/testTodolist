@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Troan89/testTodolist/static/css/main.aa6bf500.css",
-    "main.js": "/Troan89/testTodolist/static/js/main.2b820dbf.js",
-    "static/js/453.17efde30.chunk.js": "/Troan89/testTodolist/static/js/453.17efde30.chunk.js",
-    "index.html": "/Troan89/testTodolist/index.html",
-    "main.aa6bf500.css.map": "/Troan89/testTodolist/static/css/main.aa6bf500.css.map",
-    "main.2b820dbf.js.map": "/Troan89/testTodolist/static/js/main.2b820dbf.js.map",
-    "453.17efde30.chunk.js.map": "/Troan89/testTodolist/static/js/453.17efde30.chunk.js.map"
+    "main.css": "/testTodolist/static/css/main.aa6bf500.css",
+    "main.js": "/testTodolist/static/js/main.cfd7be69.js",
+    "static/js/453.17efde30.chunk.js": "/testTodolist/static/js/453.17efde30.chunk.js",
+    "index.html": "/testTodolist/index.html",
+    "main.aa6bf500.css.map": "/testTodolist/static/css/main.aa6bf500.css.map",
+    "main.cfd7be69.js.map": "/testTodolist/static/js/main.cfd7be69.js.map",
+    "453.17efde30.chunk.js.map": "/testTodolist/static/js/453.17efde30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa6bf500.css",
-    "static/js/main.2b820dbf.js"
+    "static/js/main.cfd7be69.js"
   ]
 }
