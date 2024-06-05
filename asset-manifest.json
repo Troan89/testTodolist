@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Troan89/testTodolist/static/css/main.aa6bf500.css",
+    "main.js": "/Troan89/testTodolist/static/js/main.2b820dbf.js",
+    "static/js/453.17efde30.chunk.js": "/Troan89/testTodolist/static/js/453.17efde30.chunk.js",
+    "index.html": "/Troan89/testTodolist/index.html",
+    "main.aa6bf500.css.map": "/Troan89/testTodolist/static/css/main.aa6bf500.css.map",
+    "main.2b820dbf.js.map": "/Troan89/testTodolist/static/js/main.2b820dbf.js.map",
+    "453.17efde30.chunk.js.map": "/Troan89/testTodolist/static/js/453.17efde30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa6bf500.css",
+    "static/js/main.2b820dbf.js"
+  ]
+}
